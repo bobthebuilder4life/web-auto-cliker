@@ -9,6 +9,8 @@ To stop it you need to press "S"
 
 This is going to be the bookmark method. 
 
+just copy the code from this: https://github.com/bobthebuilder4life/web-auto-cliker/blob/main/auto%20clicker%20v1.%20(kinda%20not%20working%20for%20cookie%20clicker)
+
 (this is a remake of https://github.com/sparemind web auto clicker, i just wanted to work on it a lil, shoutout to him for the original source code!)
 
 [Screen recording 2026-05-07 11.30.39.webm](https://github.com/user-attachments/assets/b02fba72-4566-489d-98a0-754d4df6f239)
