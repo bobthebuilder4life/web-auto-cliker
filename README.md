@@ -9,6 +9,8 @@ To stop it you need to press "S"
 
 This is going to be the bookmark method. 
 
+(this is a lil more advanced version of https://github.com/sparemind web auto clicker, i just wanted to work on it a lil, shoutout to him for the original source code!)
+
 [Screen recording 2026-05-07 11.30.39.webm](https://github.com/user-attachments/assets/b02fba72-4566-489d-98a0-754d4df6f239)
 
 <img width="290" height="548" alt="Screenshot 2026-05-07 11 34 33" src="https://github.com/user-attachments/assets/14f39f71-e05b-4648-a608-2a217c5881c3" />
