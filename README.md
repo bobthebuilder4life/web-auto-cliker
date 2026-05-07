@@ -3,6 +3,8 @@ This auto cliker works in your web browser! it works for abunch of stuff!
 
 Im making a new version working for cookie cliker.
 
+just press the bookmared thing, then press the buttion you want ti auto click, then done!
+
 This auto clicker has an CPS counter and clicker counter.
 
 To stop it you need to press "S" 
