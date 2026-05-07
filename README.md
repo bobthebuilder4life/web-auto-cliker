@@ -15,6 +15,11 @@ This is going to be the bookmark method.
 
 just copy the code from this: https://github.com/bobthebuilder4life/web-auto-cliker/blob/main/auto%20clicker%20v1.%20(kinda%20not%20working%20for%20cookie%20clicker)
 
+this cc auto clicker kinda works
+
+[Screen recording 2026-05-07 13.49.15.webm](https://github.com/user-attachments/assets/f97d713e-156b-418c-9cbf-80f2e371101e)
+
+
 (warning this one could lag your computer!)
 
 [SIMPLEFIED.V1.webm](https://github.com/user-attachments/assets/74bb0785-e84a-46f1-9ec8-04210d1829bb)
