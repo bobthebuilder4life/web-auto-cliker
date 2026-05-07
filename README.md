@@ -3,6 +3,8 @@ This auto cliker works in your web browser! it works for abunch of stuff!
 
 Im making a new version working for cookie cliker.
 
+There is a new very simplefied autoclicker, that can go up to 10k CPS, its kinda laggy.
+
 just press the bookmared thing, then press the buttion you want to auto click, then done!
 
 This auto clicker has an CPS counter and clicker counter.
